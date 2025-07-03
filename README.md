@@ -10,8 +10,9 @@ environments.
   <img height="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
 <img height="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
 <img height="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" />
-  <img height="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" />
   <img height="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vuetify-Dark.svg" />
+    <img height="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" />
+    <img height="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" />
   <img height="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NuxtJS-Dark.svg" />
 </div>
 
