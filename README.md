@@ -6,7 +6,14 @@ applications. Skilled in optimizing performance and enhancing user experience, p
 environments.
 
 ## Skills
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
+<div>
+  <img height="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
+<img height="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
+<img height="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" />
+  <img height="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" />
+  <img height="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vuetify-Dark.svg" />
+  <img height="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NuxtJS-Dark.svg" />
+</div>
 
 <!--
 **ali2020lara/ali2020lara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
